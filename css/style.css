@@ -1,0 +1,65 @@
+.container{
+    max-width: 80%;
+    height: auto;
+}
+h1{
+    font-size: 20px;
+    color: red;
+    text-align: center;
+}
+.header{
+     height: 30px;
+     background: rgb(163, 8, 16);
+}
+.top{
+    height: 60px;
+    background: rgb(224, 158, 210);
+}
+.nav{
+    height: 40px;
+    background: rgb(23, 0, 128);
+}
+.banner{
+    height: 180px;
+    background: rgb(90, 128, 0);
+}
+.rp{
+    height: 180px;
+     background: rgb(31, 32, 31);
+}
+.fp{
+    height: 170px;
+    background: rgb(91, 196, 91);
+}
+.bsp{
+    height: 160px;
+    background: rgb(221, 105, 169);
+}
+.trp{
+    height: 150px;
+    background: rgb(28, 121, 158);
+}
+.service{
+    height: 150px;
+    background: rgb(20, 1, 9);
+}
+.lup{
+    height: 150px;
+    background: rgb(95, 116, 95);
+}
+.b{
+    height: 150px;
+    background: rgb(51, 34, 100);
+}
+.contact{
+    height: 150px;
+    background: rgb(48, 231, 11);
+}
+.footer{
+    height: 60px;
+    background: rgb(35, 110, 35);
+}
+.copy{
+    height: 50px;
+    background: rgb(114, 24, 61);
+}
